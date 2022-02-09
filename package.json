@@ -1,0 +1,20 @@
+{
+  "name": "Unit-1-Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alextakada322/Weather-Search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alextakada322/Weather-Search/issues"
+  },
+  "homepage": "https://github.com/alextakada322/Weather-Search#readme"
+}
